@@ -25,7 +25,13 @@ namespace ConsoleUI
             Make = make;
             Model = model;
         }
+        //Abstract DriveAbstract method:
         public abstract void DriveAbstract();
+        // DriveVirutal
+        // Function prints some lines; will be overriden in one of the 
+        // inherited classes
+        // PARAMS: None
+        // RETURNS: Nothing; prints some lines
         public virtual void DriveVirtual()
         {
             Console.WriteLine($"I'm driving a {Year} {Make} {Model}. This method can be overriden.");
@@ -42,10 +48,18 @@ namespace ConsoleUI
     class Car: Vehicle
     {
         private bool HasTrunk { get; set; }
+        // DriveAbstract
+        // Needed to "define" this funaction because
+        // it's inherited from Vehicle
         public override void DriveAbstract()
         {
 
         }
+        // SetHasTrunk
+        // Program takes a value (bool) and sets 
+        // HasTrunk to the value
+        // PARAMS: val (bool)
+        // RETURNS: Nothing; HasTrunk is set to val
         public void SetHasTrunk(bool val)
         {
             HasTrunk = val;
@@ -55,16 +69,28 @@ namespace ConsoleUI
     class Motorcycle: Vehicle
     {
         private bool HasSideCart { get; set; }
+        // DriveAbstract
+        // Needed to "define" this funaction because
+        // it's inherited from Vehicle
         public override void DriveAbstract()
         {
 
         }
+        // DriveVirutal
+        // Function prints some lines; overriden here 
+        // PARAMS: None
+        // RETURNS: Nothing; prints some lines
         public override void DriveVirtual()
         {
             Console.WriteLine($"I'm driving a {Year} {Make} {Model}. This method overrides the method from the base class.");
             Console.WriteLine("I don't want a pickle; I just want to ride on my motorcycle.");
             Console.WriteLine("==============================");
         }
+        // SetHasSideCart
+        // Program takes a value (bool) and sets 
+        // HasSideCart to the value
+        // PARAMS: val (bool)
+        // RETURNS: Nothing; HasSideCart is set to val
         public void SetHasSideCart(bool val)
         {
             HasSideCart = val;
