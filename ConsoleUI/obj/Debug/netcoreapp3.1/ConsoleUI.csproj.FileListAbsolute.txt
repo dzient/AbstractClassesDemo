@@ -1,0 +1,14 @@
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.exe
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.deps.json
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.json
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.runtimeconfig.dev.json
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\bin\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.AssemblyInfo.cs
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.dll
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.pdb
+C:\Users\kc2us\Documents\GitHub\AbstractClassesDemo\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
