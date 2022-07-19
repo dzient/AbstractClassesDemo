@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 // CarLotSimulatorRevisited
 //
 // Name: David Zientara
-// Date: 7-16-2022
+// Date: 7-19-2022
 // Comments: An exercise in abstract classes (exercise 1)
 // Added methods per the instructions
 //-----------------------------------------------------------------
